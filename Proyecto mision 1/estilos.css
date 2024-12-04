@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(252, 208, 226);
+}
+.titulop{
+    font-size: 100px;
+    color:rgb(5, 5, 5); position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    }
+    
+   
+
+.img1{
+display: inline-block;
+margin:0px auto;
+border: 2px solid #000;
+}
+.parrafo1{
+    text-align: center;
+    text-transform: lowercase;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
